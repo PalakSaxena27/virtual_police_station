@@ -1,0 +1,12 @@
+body
+{
+    border: 2px solid black;
+    width: 300px;
+    font-size: large;
+    font-style: italic;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 35%;
+    padding: 3%;
+    background-color:rgb(252, 217, 230);
+}
